@@ -37,7 +37,7 @@ public class MailReceiver {
 
     public static final Logger logger = LoggerFactory.getLogger(MailReceiver.class);
 
-    //测试
+    //测试啦啦额
     @Autowired
     JavaMailSender javaMailSender;
     @Autowired
