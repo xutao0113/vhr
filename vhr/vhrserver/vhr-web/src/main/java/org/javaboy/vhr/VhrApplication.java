@@ -13,6 +13,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 public class VhrApplication {
 
     public static void main(String[] args) {
+        System.out.println("测试提交代码");
         SpringApplication.run(VhrApplication.class, args);
     }
 
