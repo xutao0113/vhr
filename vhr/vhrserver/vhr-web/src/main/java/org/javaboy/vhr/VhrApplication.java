@@ -14,6 +14,7 @@ public class VhrApplication {
 
     public static void main(String[] args) {
         int i=0;
+        int m=1;
         System.out.println("测试提交代码");
         SpringApplication.run(VhrApplication.class, args);
     }
